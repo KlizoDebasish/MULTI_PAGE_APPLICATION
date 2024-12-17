@@ -18,11 +18,17 @@ This project is a Multi-Page Application (MPA) built using React, Redux, and Rea
 
 Experience the live version of the Portfolio Website here: [Live Demo](https://klizos-multi-page-application.vercel.app)
 
-## Screenshots
+### Screenshots
 
-### Home Page
-![MPA Website Screenshot] ![Screenshot (6)](https://github.com/user-attachments/assets/6c8032aa-a070-4198-917d-f297e5cb3532)
+## Home Page
+![Screenshot (6)](https://github.com/user-attachments/assets/6c8032aa-a070-4198-917d-f297e5cb3532)
 
+## Upcoming Feature Page
+![Screenshot (20)](https://github.com/user-attachments/assets/c9e68e4c-1e3e-4d67-a615-cf9b9a9b0209)
+
+## Filter Pages
+![Screenshot (21)](https://github.com/user-attachments/assets/213f5b62-0dca-493b-a91a-44408aaaeb5a)
+![Screenshot (22)](https://github.com/user-attachments/assets/4a42bf27-cb3e-4c26-b28e-2c00f8a8d84a)
 
 ## Technologies Used
 - **React**: A JavaScript library for building user interfaces.
