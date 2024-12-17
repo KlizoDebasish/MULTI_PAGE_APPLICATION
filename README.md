@@ -13,6 +13,8 @@ This project is a Multi-Page Application (MPA) built using React, Redux, and Rea
 - Responsive design with Tailwind CSS and DaisyUI
 - Fast build and development with Vite
 - Linting and code quality with ESLint and Prettier
+## Documentation
+https://docs.google.com/document/d/1U87Yr-5ImLE1yMq2iX1xbVO6MzE_cspaUV2cPZ2A4Go/edit?usp=sharing
 
 ## Live Demo
 
