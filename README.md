@@ -14,6 +14,16 @@ This project is a Multi-Page Application (MPA) built using React, Redux, and Rea
 - Fast build and development with Vite
 - Linting and code quality with ESLint and Prettier
 
+## Live Demo
+
+Experience the live version of the Portfolio Website here: [Live Demo](https://klizos-multi-page-application.vercel.app)
+
+## Screenshots
+
+### Home Page
+![MPA Website Screenshot] ![Screenshot (6)](https://github.com/user-attachments/assets/6c8032aa-a070-4198-917d-f297e5cb3532)
+
+
 ## Technologies Used
 - **React**: A JavaScript library for building user interfaces.
 - **Redux**: A predictable state container for JavaScript apps.
